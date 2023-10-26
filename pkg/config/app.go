@@ -2,7 +2,6 @@ package config
 
 import (
 	"gorm.io/driver/mysql"
-	_ "gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
 
